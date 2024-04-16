@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clinkco
 - 👀 I’m interested in software, firmware, and electronics
-- 🌱 I’m currently learning python, SQL, and computer science
+  
 
 
 <!---
