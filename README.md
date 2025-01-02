@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Clinkco
-- 👀 I’m interested in software, firmware, and electronics
+- 👋 
   
 
 
